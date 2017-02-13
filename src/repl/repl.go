@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"io"
 	"lexer"
-	"parser"
 	"object"
+	"parser"
 )
 
 const PROMPT = ">> "
